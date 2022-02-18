@@ -94,3 +94,15 @@ https://github.com/aishwaryasharma10/534_project.git
 - Following is the link to the git repository along with the screenshot of the commits done by me.
 
 https://github.com/aishwaryasharma10/534_project.git
+
+## Day 6 Aishwarya:
+
+- We tried to resolve the issues we were getting using Circle CI. We have worked alot but still no progress on that.
+- We have researched a lot over the net in order to get the proper idea, but we are still not able to run it properly.
+- Our build is still getting failed and we have searched for different methods, one of them were github actions.
+
+
+## Day 7 Aishwarya:
+
+- Today, finally we have passed everything in our project using github actions.
+- I have written code of conduct file and have pushed that.
