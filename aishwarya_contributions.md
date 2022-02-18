@@ -101,8 +101,16 @@ https://github.com/aishwaryasharma10/534_project.git
 - We have researched a lot over the net in order to get the proper idea, but we are still not able to run it properly.
 - Our build is still getting failed and we have searched for different methods, one of them were github actions.
 
+- Following is the link to the git repository along with the screenshot of the commits done by me.
+
+https://github.com/aishwaryasharma10/534_project.git
 
 ## Day 7 Aishwarya:
 
 - Today, finally we have passed everything in our project using github actions.
-- I have written code of conduct file and have pushed that.
+- I have written code of conduct file and contributions file and have pushed that.
+- Our package is working on all the machines including MAC, LINUX and Windows.
+
+- Following is the link to the git repository along with the screenshot of the commits done by me.
+
+https://github.com/aishwaryasharma10/534_project.git
